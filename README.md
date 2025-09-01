@@ -63,3 +63,5 @@ Key Insights
 Most Effective: Sports events and sponsorships in Mumbai, both generating high signups at the lowest cost.
 
 Least Effective: Conferences and events in Bangalore, with the highest cost per signup.
+
+![image alt](https://github.com/apurbadas2311/Event-Sponsorship-Report/blob/main/BrandPulse(5).png?raw=true)
